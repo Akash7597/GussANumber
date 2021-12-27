@@ -1,0 +1,7 @@
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\bin\Debug\Guess a number.exe.config
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\bin\Debug\Guess a number.exe
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\bin\Debug\Guess a number.pdb
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\obj\Debug\Guess a number.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\obj\Debug\Guess a number.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\obj\Debug\Guess a number.exe
+C:\Users\AkashVikas\source\repos\Hello\Guess a number\obj\Debug\Guess a number.pdb
